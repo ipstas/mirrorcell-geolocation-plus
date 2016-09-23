@@ -1,5 +1,5 @@
 Package.describe({
-    name: '37d:geolocation-plus',
+    name: '37d:mirrorcell-geolocation-plus',
     version: '1.1.9',
     // Brief, one-line summary of the package.
     summary: 'A Geolocation Abstraction with Manual Starting / Stopping and location storage',
